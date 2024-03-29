@@ -26,3 +26,22 @@ Contributions to the project are welcome. If you spot any issues, have suggestio
 
 ## This is hosted using vercel using the following link
 https://netflix-html-css-clone-seven.vercel.app/
+
+Photos:
+
+<img width="1710" alt="Screenshot 2024-03-29 at 5 35 04 PM" src="https://github.com/JoelSamson/Netflix-HTML-CSS-clone/assets/55976489/80478a6d-4d91-45ad-90e8-cee720f0cf33">
+
+<img width="1710" alt="Screenshot 2024-03-29 at 5 35 08 PM" src="https://github.com/JoelSamson/Netflix-HTML-CSS-clone/assets/55976489/72120b29-db16-496c-9900-3f2cfebc0900">
+
+<img width="1710" alt="Screenshot 2024-03-29 at 5 35 11 PM" src="https://github.com/JoelSamson/Netflix-HTML-CSS-clone/assets/55976489/f9e37e24-d513-4e6d-aced-6a2b25f25520">
+
+<img width="1710" alt="Screenshot 2024-03-29 at 5 35 14 PM" src="https://github.com/JoelSamson/Netflix-HTML-CSS-clone/assets/55976489/87a47a0c-cfd9-4416-a641-9f8326e224f3">
+
+<img width="1710" alt="Screenshot 2024-03-29 at 5 35 16 PM" src="https://github.com/JoelSamson/Netflix-HTML-CSS-clone/assets/55976489/40b62ddd-010d-4840-81ea-7fcceed99277">
+
+<img width="1710" alt="Screenshot 2024-03-29 at 5 35 19 PM" src="https://github.com/JoelSamson/Netflix-HTML-CSS-clone/assets/55976489/1778344b-0eed-4262-a6c9-73ddd4566a69">
+
+
+
+
+
